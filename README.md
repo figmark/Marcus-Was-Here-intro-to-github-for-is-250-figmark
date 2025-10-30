@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21293571&assignment_repo_type=AssignmentRepo)
 # :wave: The Basics of GitHub 
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 Course overview and learning outcomes MARCUS WAS HERE -Thank you for the office hours help
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
@@ -90,6 +90,8 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
+MARCUS WAS HERE
+
 ## 📝 Optional next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
@@ -97,6 +99,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+
+MARCUS WAS HERE
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
